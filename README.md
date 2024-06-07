@@ -1,4 +1,4 @@
-# C Learning Repository on the first period at SENAC
+# Learning C on the first period at SENAC
 
 ## Introduction
 Welcome to my C Learning Repository! 
