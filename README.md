@@ -5,6 +5,9 @@ Welcome to my C Learning Repository!
 This section is dedicated to documenting my journey as I learn the C programming language. 
 Here, you'll find a collection of codes, algorithms, and exercises that I've worked on as part of my learning process.
 
+## Disclaimer
+Every code here will be tested and meant to be tested on [Replit](https://replit.com).
+
 ## Purpose
 The main purpose of this repository is to track my progress, showcase my understanding of C programming concepts, and serve as a resource for fellow learners who may benefit from studying or reviewing these examples.
 
