@@ -1,0 +1,47 @@
+//Write an algorithm, in algorithmic language, that presents a menu with four options:1 – Sum, 2 – Subtraction, 3 – Multiplication and 4 – Leave
+ 
+ Algorithm MenuDrivenCalculator
+  // Declaration of variables
+  Declare choice, num1, num2, result as Integer
+  
+  // Repeat the menu until the user chooses to leave
+  Repeat
+    // Display the menu
+    Print "Menu:"
+    Print "1 - Sum"
+    Print "2 - Subtraction"
+    Print "3 - Multiplication"
+    Print "4 - Leave"
+    
+    // Read the user's choice
+    Print "Enter your choice: "
+    Read choice
+
+    // Check the user's choice and perform the operation
+    If choice = 1 Then
+      // Sum operation
+      Print "Enter the first number: "
+      Read num1
+      Print "Enter the second number: "
+      Read num2
+      result = num1 + num2
+      Print "The result of the sum is: ", result
+
+    ElseIf choice = 2 Then
+      // Subtraction operation
+      Print "Enter the first number: "
+      Read num1
+      Print "Enter the second number: "
+      Read num2
+      result = num1 - num2
+      Print "The result of the subtraction is: ", result
+
+    ElseIf choice = 3 Then
+      // Multiplication operation
+      Print "Enter the first number: "
+      Read num1
+      Print "Enter the second number: "
+      Read num2
+      result = num1 * num2
+      Print
+
