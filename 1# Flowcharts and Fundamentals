@@ -1,0 +1,128 @@
+1//
+∆ Exemplo 1: Ligar o computador para jogar Valorant**
+
+
+Descrição Narrativa:
+1. Pressione o botão de ligar do computador.
+2. Aguarde enquanto o sistema operacional é inicializado.
+3. Faça login na sua conta.
+4. Abra o launcher do Valorant.
+5. Aguarde enquanto o jogo é carregado.
+6. Entre na fila de espera para encontrar uma partida.
+7. Quando a partida estiver pronta, entre no jogo e divirta-se!
+
+
+Fluxograma:
+
+
+[INÍCIO]
+   |
+   v
+[Pressione o botão de ligar do computador]
+   |
+   v
+[Aguarde a inicialização do sistema operacional]
+   |
+   v
+[Faça login na sua conta]
+   |
+   v
+[Abra o launcher do Valorant]
+   |
+   v
+[Aguarde o carregamento do jogo]
+   |
+   v
+[Entre na fila de espera]
+   |
+   v
+[Quando a partida estiver pronta, entre no jogo]
+   |
+   v
+[Divirta-se!]
+   |
+   v
+[FIM]
+```
+
+
+∆ Exemplo 2: Entrar no Discord pelo PC
+
+
+Descrição Narrativa:
+1. Ligue o computador, se ainda não estiver ligado.
+2. Aguarde enquanto o sistema operacional é inicializado.
+3. Abra o aplicativo do Discord.
+4. Faça login na sua conta, se necessário.
+5. Procure pelos servidores que você participa.
+6. Escolha o servidor desejado.
+7. Participe dos canais de texto e voz conforme sua preferência.
+
+
+Fluxograma:
+
+
+[INÍCIO]
+   |
+   v
+[Ligue o computador, se necessário]
+   |
+   v
+[Aguarde a inicialização do sistema operacional]
+   |
+   v
+[Abra o aplicativo do Discord]
+   |
+   v
+[Faça login na sua conta, se necessário]
+   |
+   v
+[Procure pelos servidores que você participa]
+   |
+   v
+[Escolha o servidor desejado]
+   |
+   v
+[Participe dos canais de texto e voz]
+   |
+   v
+[FIM]
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+2//
+I. Calcular e exibir a média ponderada de duas notas dadas:
+
+
+        •Entrada: As duas notas fornecidas pelo usuário.
+        •Processamento: Calcular a média ponderada das notas, onde a nota1 tem peso 6 e a nota2 tem peso 4.
+        •Saída: Exibir a média ponderada calculada.
+
+
+II. Reajustar salário inicial em 15%:
+
+
+        •Entrada: O salário inicial.
+        •Processamento: Calcular o reajuste do salário, aumentando-o em 15%.
+        •Saída: Exibir o salário reajustado.
+
+
+III. Calcular o desconto de 23% sobre o preço de um produto:
+
+
+        •Entrada: O preço do produto.
+        •Processamento: Calcular o desconto de 23% sobre o preço fornecido.
+        •Saída: Exibir o preço do produto com o desconto aplicado.
+
+
+IV. Checar se um determinado número fornecido pelo usuário é positivo ou negativo:
+
+
+        •Entrada: O número fornecido pelo usuário.
+        •Processamento: Verificar se o número é maior que zero (positivo) ou menor que zero (negativo).
+        •Saída: Exibir "positivo" ou "negativo" conforme o caso.
+
+
+Gabriel Coelho de Araújo
