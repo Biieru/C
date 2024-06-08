@@ -1,0 +1,120 @@
+1// Flowcharts
+∆ Example 1: Turn on the computer to play Valorant**
+
+
+Narrative Description:
+1. Press the computer's power button;
+2. Wait while the operating system boots;
+3. Log in to your account;
+4. Open the Valorant/Riot Games launcher;
+5. Wait the game load;
+6. Join the queue to find a match;
+7. When the match is ready, join the game and (try to) have fun!
+
+
+Flowchart:
+
+[START]
+ |
+ v
+[Press the computer's power button]
+ |
+ v
+[Wait for operating system to boot]
+ |
+ v
+[Sign in to your account]
+ |
+ v
+[Open Valorant/Riot Games launcher]
+ |
+ v
+[Wait for game to load]
+ |
+ v
+[Join the waiting line]
+ |
+ v
+[When the match is ready, join the game]
+ |
+ v
+[(Try to) Have a good time!]
+ |
+ v
+[END]
+```
+
+
+∆ Example 2: Login to Discord on PC
+
+
+Narrative Description:
+1. Turn on your computer, if it is not already on.
+2. Wait while the operating system boots.
+3. Open the Discord app.
+4. Log in to your account if necessary.
+5. Search for the servers you participate in.
+6. Choose the desired server.
+7. Participate in text and voice channels as per your preference.
+
+
+Flowchart:
+
+
+[START]
+ |
+ v
+[Turn on the computer if necessary]
+ |
+ v
+[Wait for operating system to boot]
+ |
+ v
+[Open the Discord app]
+ |
+ v
+[Log in to your account if necessary]
+ |
+ v
+[Search for the servers you participate in]
+ |
+ v
+[Choose the desired server]
+ |
+ v
+[Join text and voice channels]
+ |
+ v
+[END]
+
+
+-------------------------------------------------- -------------------------------------------------- -----------
+
+
+1// Fundamental Phases
+I. Calculate and display the weighted average of two given grades:
+
+ •Input: The two notes provided by the user.
+ •Processing: Calculate the weighted average of the grades, where grade1 has a weight of 6 and grade2 has a weight of 4.
+ •Output: Display the calculated weighted average.
+
+
+II. Adjust starting salary by 15%:
+
+ •Entry: The starting salary.
+ •Processing: Calculate the salary adjustment, increasing it by 15%.
+ •Output: Display the adjusted salary.
+
+
+III. Calculate the 23% discount on the price of a product:
+
+ •Input: The price of the product.
+ •Processing: Calculate the 23% discount on the price provided.
+ •Output: Display the price of the product with the discount applied.
+
+
+IV. Check whether a given number provided by the user is positive or negative:
+
+ •Input: The number provided by the user.
+ •Processing: Check whether the number is greater than zero (positive) or less than zero (negative).
+ •Output: Display “positive” or “negative” as appropriate.
